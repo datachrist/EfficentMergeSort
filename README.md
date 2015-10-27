@@ -1,4 +1,4 @@
-project-elegent-merge-sort-algo
+Project-EfficentMergeSort
 ===============================
 
 project for efficient merge sorting algorithm 
